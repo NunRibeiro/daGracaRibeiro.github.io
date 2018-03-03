@@ -1,0 +1,561 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daGraçaRibeiro.com" resolutions="1x" timestamp="1520110967100">
+  <folder name="css">
+    <file name="site_global.css" crc="409442324"/>
+    <file name="master_a-master.css" crc="148688649" ref="villa-ferreira-costa:about:contact:index:urban-art-museum:the-way-of-the-buyi"/>
+    <file name="nomq_preview_master_a-master.css" crc="402325565" ref="villa-ferreira-costa:about:contact:index:urban-art-museum:the-way-of-the-buyi"/>
+    <file name="villa-ferreira-costa.css" crc="4120814923" ref="villa-ferreira-costa"/>
+    <file name="nomq_villa-ferreira-costa.css" crc="82640985" ref="villa-ferreira-costa"/>
+    <file name="about.css" crc="335374621" ref="about"/>
+    <file name="nomq_about.css" crc="29138675" ref="about"/>
+    <file name="contact.css" crc="510361960" ref="contact"/>
+    <file name="nomq_contact.css" crc="3988281547" ref="contact"/>
+    <file name="index.css" crc="4099995808" ref="index"/>
+    <file name="nomq_index.css" crc="479848931" ref="index"/>
+    <file name="urban-art-museum.css" crc="3887477086" ref="urban-art-museum"/>
+    <file name="nomq_urban-art-museum.css" crc="334180639" ref="urban-art-museum"/>
+    <file name="the-way-of-the-buyi.css" crc="3817115171" ref="the-way-of-the-buyi"/>
+    <file name="nomq_the-way-of-the-buyi.css" crc="4124033928" ref="the-way-of-the-buyi"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="require.js" crc="4157109226" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="touchswipe.js" crc="4066113679" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u65883.php" crc="465298439" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="vista geral de baixo mais céu-crop-u181.jpg" crc="497561316" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral 2-crop-u200.png" crc="65936271" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="firstpng-crop-u203.png" crc="4108304329" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="vista geral de baixo mais céu-crop-u1812.jpg" crc="352350135" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral 2-crop-u2002.png" crc="237820446" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="firstpng-crop-u2032.png" crc="4225399030" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="vista geral de baixo mais céu-crop-u1813.jpg" crc="352350135" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral 2-crop-u2003.png" crc="237820446" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="firstpng-crop-u2033.png" crc="4225399030" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="vista geral de baixo mais céu-crop-u1814.jpg" crc="3864153821" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="firstpng-crop-u2034.png" crc="4200896971" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral 2-crop-u2004.png" crc="4119629803" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="vista geral de baixo mais céu-crop-u1815.jpg" crc="199308992" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral 2-crop-u2005.png" crc="136024707" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="firstpng-crop-u2035.png" crc="4059984877" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="dsc_0490.jpg" crc="3798856828" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dsc_0490-u10491-fr.jpg" crc="232326563" ref="about"/>
+    <file name="dsc_0490-u10491-fr2.jpg" crc="339855910" ref="about"/>
+    <file name="dsc_0490-u10491-fr3.jpg" crc="125677255" ref="about"/>
+    <file name="vista geral de baixo mais céu.jpg" crc="3877734035" ref="urban-art-museum"/>
+    <file name="pasted image 960x706333x246.jpg" crc="4001707453" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An old image showing the demolitions that were necessary to create the D. Afonso Henriques Avenue."/>
+    </file>
+    <file name="pasted image 1600x960-crop-u9929.jpg" crc="178356512" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the Dom Afonso Henriques Avenue is today."/>
+    </file>
+    <file name="1-crop-u40335.png" crc="422828907" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the cliff was artificialized to create the urban art museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="2-crop-u40927.png" crc="4162690511" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="3-crop-u41075.png" crc="3879694868" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="lobby.jpg" crc="4080283545" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the lobby, the store and the expo room of the Porto's Urban Art Museum designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="urban-art-museum" alt="An image showing the lobby, the store and the expo room of the Porto's Urban Art Museum designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="urban-art-museum" alt="An image showing the lobby, the store and the expo room of the Porto's Urban Art Museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="barf.jpg" crc="4050319204" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the concert bar of the Porto's Urban Art Museum design by Nuno da Graça Ribeiro."/>
+      <caption webpage="urban-art-museum" alt="An image showing the concert bar of the Porto's Urban Art Museum design by Nuno da Graça Ribeiro."/>
+      <caption webpage="urban-art-museum" alt="An image showing the concert bar of the Porto's Urban Art Museum design by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="topo avenida.png" crc="461840352" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 1.png" crc="4081725547" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 2.png" crc="4132326180" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 3.png" crc="127414846" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 4.png" crc="46624521" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 5.png" crc="175027364" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 6.png" crc="118375052" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 7.png" crc="305366859" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte longitudinal.png" crc="170047465" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte transversal.png" crc="330354290" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte rampa.png" crc="3913986798" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="west.jpg" crc="131437814" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 1-crop-u44120.png" crc="147314674" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 2-crop-u44190.png" crc="3915660079" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 3-crop-u44260.png" crc="4223590873" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 4-crop-u44330.png" crc="496531284" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 5-crop-u44400.png" crc="4021919121" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 6-crop-u44470.png" crc="4067569821" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 7-crop-u44540.png" crc="171908238" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte longitudinal-crop-u43694.png" crc="310867353" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte transversal-crop-u44006.png" crc="3914805156" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte rampa-crop-u43936.png" crc="4216884400" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="west-crop-u63791.jpg" crc="14785968" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="pasted image 960x706302x229.jpg" crc="4143114975" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An old image showing the demolitions that were necessary to create the D. Afonso Henriques Avenue."/>
+    </file>
+    <file name="pasted image 1600x960-crop-u99292.jpg" crc="454170915" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the Dom Afonso Henriques Avenue is today."/>
+    </file>
+    <file name="1-crop-u403352.png" crc="4285179368" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the cliff was artificialized to create the urban art museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="2-crop-u409272.png" crc="418086818" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="3-crop-u410752.png" crc="392770558" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 1-crop-u441202.png" crc="3918763319" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 2-crop-u441902.png" crc="3937718075" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 3-crop-u442602.png" crc="3847061179" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 4-crop-u443302.png" crc="3974334098" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 5-crop-u444002.png" crc="3944875419" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 6-crop-u444702.png" crc="22662417" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 7-crop-u445402.png" crc="3920604613" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte longitudinal-crop-u436942.png" crc="70964731" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte transversal-crop-u440062.png" crc="395391192" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte rampa-crop-u439362.png" crc="94731052" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="west-crop-u637912.jpg" crc="30265280" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="vista geral de baixo mais céu-u3214-fr.jpg" crc="55710220" ref="urban-art-museum"/>
+    <file name="pasted image 960x706610x448.jpg" crc="493460067" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An old image showing the demolitions that were necessary to create the D. Afonso Henriques Avenue."/>
+    </file>
+    <file name="pasted image 1600x960-crop-u99293.jpg" crc="239349354" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the Dom Afonso Henriques Avenue is today."/>
+    </file>
+    <file name="1-crop-u403353.png" crc="103918663" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the cliff was artificialized to create the urban art museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="2-crop-u409273.png" crc="517298053" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="3-crop-u410753.png" crc="392770558" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="topo avenida-u28470-fr.png" crc="3933060127" ref="urban-art-museum"/>
+    <file name="piso 1569x363.png" crc="508271079" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 2569x363.png" crc="269740455" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 3569x363.png" crc="4176906996" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 4569x363.png" crc="365482885" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 5569x363.png" crc="4221870746" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 6569x363.png" crc="20822370" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 7569x363.png" crc="3988354862" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="west569x253.jpg" crc="4143816919" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 1-crop-u441203.png" crc="4153445762" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 2-crop-u441903.png" crc="4084287627" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 3-crop-u442603.png" crc="492733593" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 4-crop-u443303.png" crc="3830895263" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 5-crop-u444003.png" crc="335868417" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 6-crop-u444703.png" crc="4212715467" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="piso 7-crop-u445403.png" crc="529405258" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte longitudinal-crop-u436943.png" crc="221512192" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte transversal-crop-u440063.png" crc="4117947967" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="corte rampa-crop-u439363.png" crc="79516866" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="west-crop-u637913.jpg" crc="4270038834" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="vista geral de baixo mais céu-u3214-fr2.jpg" crc="442416399" ref="urban-art-museum"/>
+    <file name="pasted image 960x706471x346.jpg" crc="251368106" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An old image showing the demolitions that were necessary to create the D. Afonso Henriques Avenue."/>
+    </file>
+    <file name="pasted image 1600x960-crop-u99294.jpg" crc="4245324923" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the Dom Afonso Henriques Avenue is today."/>
+    </file>
+    <file name="1-crop-u403354.png" crc="451443907" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the cliff was artificialized to create the urban art museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="2-crop-u409274.png" crc="3811050572" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="3-crop-u410754.png" crc="3878823513" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="lobby471x471.jpg" crc="3806630724" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the lobby, the store and the expo room of the Porto's Urban Art Museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="barf471x472.jpg" crc="4055394481" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the concert bar of the Porto's Urban Art Museum design by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="topo avenida-u28470-fr2.png" crc="4276160666" ref="urban-art-museum"/>
+    <file name="vista geral de baixo mais céu-u3214-fr3.jpg" crc="3920018815" ref="urban-art-museum"/>
+    <file name="1-crop-u403355.png" crc="447748281" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing how the cliff was artificialized to create the urban art museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="2-crop-u409275.png" crc="3947614834" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="3-crop-u410755.png" crc="287530819" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt=""/>
+    </file>
+    <file name="lobby370x370.jpg" crc="255249586" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the lobby, the store and the expo room of the Porto's Urban Art Museum designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="barf370x370.jpg" crc="4064893719" seo="true" ref="urban-art-museum">
+      <caption webpage="urban-art-museum" alt="An image showing the concert bar of the Porto's Urban Art Museum design by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="topo avenida-u28470-fr3.png" crc="3784231356" ref="urban-art-museum"/>
+    <file name="foto telemóvel.jpg" crc="4002578302" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="foto telemóvel-u22976-fr.jpg" crc="420967198" ref="contact"/>
+    <file name="foto telemóvel-u22976-fr2.jpg" crc="3765750371" ref="contact"/>
+    <file name="foto telemóvel-u22976-fr3.jpg" crc="378394779" ref="contact"/>
+    <file name="geral png.png" crc="4254430378" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="aires_mateus_casa_tempo_montemor_pt_140314_0316-2.jpg" crc="222917393" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="A photography of Aires Mateus Casa no Tempo (2014). "/>
+      <caption webpage="villa-ferreira-costa" alt="A photography of Aires Mateus Casa no Tempo (2014). "/>
+      <caption webpage="villa-ferreira-costa" alt="A photography of Aires Mateus Casa no Tempo (2014). "/>
+    </file>
+    <file name="cozinha.png" crc="3808416782" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the entrance along with the kitchen of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="An image showing the entrance along with the kitchen of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="An image showing the entrance along with the kitchen of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="quarto.png" crc="250705949" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing a bedroom of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="An image showing a bedroom of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="escadas plantas.png" crc="106708679" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="final png.png" crc="381742126" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="planta principal muse2.jpg" crc="99542333" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="corte garagem muse.jpg" crc="4017889530" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="planta principal muse2113x112.jpg" crc="3801764948" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="corte garagem muse-crop-u62641.jpg" crc="4012516436" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="muse f-c axon 1 png.png" crc="3976514126" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="muse f-c axon 2 png.png" crc="4225201291" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="planta principal muse2101x100.jpg" crc="4007455669" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="corte garagem muse-crop-u626412.jpg" crc="4086207458" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="geral png-u46332-fr.png" crc="4063747595" ref="villa-ferreira-costa"/>
+    <file name="quarto-crop-u47215.png" crc="457619418" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing a bedroom of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="escadas plantas-crop-u47207.png" crc="476878532" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="final png-u46423-fr.png" crc="181814407" ref="villa-ferreira-costa"/>
+    <file name="planta principal muse2490x488.jpg" crc="3885443346" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="corte garagem muse570x298.jpg" crc="3778198163" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="planta principal muse287x87.jpg" crc="100479227" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="corte garagem muse-crop-u626413.jpg" crc="4015535748" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt=""/>
+    </file>
+    <file name="geral png-u46332-fr2.png" crc="218203703" ref="villa-ferreira-costa"/>
+    <file name="aires_mateus_casa_tempo_montemor_pt_140314_0316-2470x314.jpg" crc="3955929020" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="A photography of Aires Mateus Casa no Tempo (2014). "/>
+    </file>
+    <file name="muse f-c axon 1 png470x358.png" crc="89843132" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="muse f-c axon 2 png470x358.png" crc="359198027" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="cozinha471x471.png" crc="355687756" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the entrance along with the kitchen of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="quarto-crop-u472152.png" crc="4174366845" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing a bedroom of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="escadas plantas-crop-u472072.png" crc="393546146" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="final png-u46423-fr2.png" crc="516988976" ref="villa-ferreira-costa"/>
+    <file name="geral png-u46332-fr3.png" crc="384003123" ref="villa-ferreira-costa"/>
+    <file name="aires_mateus_casa_tempo_montemor_pt_140314_0316-2400x267.jpg" crc="3988850710" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="A photography of Aires Mateus Casa no Tempo (2014). "/>
+    </file>
+    <file name="muse f-c axon 1 png401x304.png" crc="4143179096" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="muse f-c axon 2 png401x304.png" crc="4033593142" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="The firts part of an exploded 3d model axonometry of Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="cozinha400x400.png" crc="3779263289" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the entrance along with the kitchen of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="quarto-crop-u472153.png" crc="311590691" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing a bedroom of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="escadas plantas-crop-u472073.png" crc="3813253656" seo="true" ref="villa-ferreira-costa">
+      <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="final png-u46423-fr3.png" crc="3786010860" ref="villa-ferreira-costa"/>
+    <file name="geral - musejpg.jpg" crc="47764579" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="shitoucun,longtanzhen,guizhou,china.jpg" crc="309940042" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
+    </file>
+    <file name="gif-half.gif" crc="513113133" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+      <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="books.jpg" crc="3842308409" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="final.jpg" crc="480596384" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta muse st.jpg" crc="39262580" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta muse st130x147.jpg" crc="3817711786" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="planta muse st106x120.jpg" crc="3987468298" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="geral - musejpg-u60662-fr.jpg" crc="4221257347" ref="the-way-of-the-buyi"/>
+    <file name="gif-half-crop-u60977.png" crc="349390270" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="final-u60727-fr.jpg" crc="4113764302" ref="the-way-of-the-buyi"/>
+    <file name="planta muse st98x111.jpg" crc="4101579594" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="geral - musejpg-u60662-fr2.jpg" crc="277914638" ref="the-way-of-the-buyi"/>
+    <file name="shitoucun,longtanzhen,guizhou,china470x353.jpg" crc="177872944" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
+    </file>
+    <file name="gif-half-crop-u609772.png" crc="4053378951" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="books470x470.jpg" crc="484339849" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="final-u60727-fr2.jpg" crc="340928993" ref="the-way-of-the-buyi"/>
+    <file name="geral - musejpg-u60662-fr3.jpg" crc="230240888" ref="the-way-of-the-buyi"/>
+    <file name="shitoucun,longtanzhen,guizhou,china370x278.jpg" crc="3854045212" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
+    </file>
+    <file name="gif-half-crop-u609773.png" crc="299054238" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="books370x370.jpg" crc="3898915610" seo="true" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
+    </file>
+    <file name="final-u60727-fr3.jpg" crc="3884752603" ref="the-way-of-the-buyi"/>
+  </folder>
+  <file name="index.html" crc="534002733" seo="true" mt="1520093325106" redirect="true"/>
+  <file name="about.html" crc="486180810" seo="true" mt="1520093325106" redirect="true"/>
+  <file name="urban-art-museum.html" crc="126539903" seo="true" mt="1520093325106" redirect="true"/>
+  <file name="contact.html" crc="3966741288" seo="true" mt="1520106981190" redirect="true"/>
+  <file name="villa-ferreira-costa.html" crc="3869628503" seo="true" mt="1520093325106" redirect="true"/>
+  <file name="the-way-of-the-buyi.html" crc="3950769509" seo="true" mt="1520093325106" redirect="true"/>
+</manifest>
