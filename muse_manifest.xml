@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daGraçaRibeiro.com" resolutions="1x" timestamp="1520110967100">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="daGraçaRibeiro.com" resolutions="1x" timestamp="1520200994140">
   <folder name="css">
     <file name="site_global.css" crc="409442324"/>
-    <file name="master_a-master.css" crc="148688649" ref="villa-ferreira-costa:about:contact:index:urban-art-museum:the-way-of-the-buyi"/>
+    <file name="master_a-master.css" crc="243974219" ref="villa-ferreira-costa:about:contact:index:urban-art-museum:the-way-of-the-buyi"/>
     <file name="nomq_preview_master_a-master.css" crc="402325565" ref="villa-ferreira-costa:about:contact:index:urban-art-museum:the-way-of-the-buyi"/>
-    <file name="villa-ferreira-costa.css" crc="4120814923" ref="villa-ferreira-costa"/>
-    <file name="nomq_villa-ferreira-costa.css" crc="82640985" ref="villa-ferreira-costa"/>
-    <file name="about.css" crc="335374621" ref="about"/>
-    <file name="nomq_about.css" crc="29138675" ref="about"/>
-    <file name="contact.css" crc="510361960" ref="contact"/>
-    <file name="nomq_contact.css" crc="3988281547" ref="contact"/>
-    <file name="index.css" crc="4099995808" ref="index"/>
-    <file name="nomq_index.css" crc="479848931" ref="index"/>
-    <file name="urban-art-museum.css" crc="3887477086" ref="urban-art-museum"/>
-    <file name="nomq_urban-art-museum.css" crc="334180639" ref="urban-art-museum"/>
-    <file name="the-way-of-the-buyi.css" crc="3817115171" ref="the-way-of-the-buyi"/>
-    <file name="nomq_the-way-of-the-buyi.css" crc="4124033928" ref="the-way-of-the-buyi"/>
+    <file name="villa-ferreira-costa.css" crc="471894181" ref="villa-ferreira-costa"/>
+    <file name="nomq_villa-ferreira-costa.css" crc="4134723305" ref="villa-ferreira-costa"/>
+    <file name="about.css" crc="22922315" ref="about"/>
+    <file name="nomq_about.css" crc="4136588018" ref="about"/>
+    <file name="contact.css" crc="460746944" ref="contact"/>
+    <file name="nomq_contact.css" crc="3844898126" ref="contact"/>
+    <file name="index.css" crc="3881365056" ref="index"/>
+    <file name="nomq_index.css" crc="3902120390" ref="index"/>
+    <file name="urban-art-museum.css" crc="3962689298" ref="urban-art-museum"/>
+    <file name="nomq_urban-art-museum.css" crc="141561373" ref="urban-art-museum"/>
+    <file name="the-way-of-the-buyi.css" crc="462900621" ref="the-way-of-the-buyi"/>
+    <file name="nomq_the-way-of-the-buyi.css" crc="4058134578" ref="the-way-of-the-buyi"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
@@ -30,59 +30,29 @@
     <file name="require.js" crc="4157109226" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
-    <file name="touchswipe.js" crc="4066113679" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi:about"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi:about"/>
+    <file name="touchswipe.js" crc="4066113679" ref="urban-art-museum:villa-ferreira-costa:the-way-of-the-buyi:about"/>
     <file name="form_check.php" crc="147359589" ref="contact"/>
     <file name="form_throttle.php" crc="93986428" ref="contact"/>
     <file name="form_process.php" crc="3851993751" ref="contact"/>
-    <file name="form-u65883.php" crc="465298439" ref="contact"/>
+    <file name="form-u65883.php" crc="4232654489" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="vista geral de baixo mais céu-crop-u181.jpg" crc="497561316" seo="true" ref="index">
+    <file name="vista geral de baixo mais céu-crop-u181.jpg" crc="4285003334" seo="true" ref="index">
       <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
     </file>
-    <file name="geral 2-crop-u200.png" crc="65936271" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="firstpng-crop-u203.png" crc="4108304329" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="vista geral de baixo mais céu-crop-u1812.jpg" crc="352350135" seo="true" ref="index">
+    <file name="vista geral de baixo mais céu-crop-u1812.jpg" crc="4081384183" seo="true" ref="index">
       <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
     </file>
-    <file name="geral 2-crop-u2002.png" crc="237820446" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="firstpng-crop-u2032.png" crc="4225399030" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="vista geral de baixo mais céu-crop-u1813.jpg" crc="352350135" seo="true" ref="index">
+    <file name="vista geral de baixo mais céu-crop-u1813.jpg" crc="4081384183" seo="true" ref="index">
       <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
     </file>
-    <file name="geral 2-crop-u2003.png" crc="237820446" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="firstpng-crop-u2033.png" crc="4225399030" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="vista geral de baixo mais céu-crop-u1814.jpg" crc="3864153821" seo="true" ref="index">
+    <file name="vista geral de baixo mais céu-crop-u1814.jpg" crc="3900533605" seo="true" ref="index">
       <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
     </file>
-    <file name="firstpng-crop-u2034.png" crc="4200896971" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="geral 2-crop-u2004.png" crc="4119629803" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="vista geral de baixo mais céu-crop-u1815.jpg" crc="199308992" seo="true" ref="index">
+    <file name="vista geral de baixo mais céu-crop-u1815.jpg" crc="4061237179" seo="true" ref="index">
       <caption webpage="index" alt="This is the architecture project for the Porto Urban Art Museum made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="geral 2-crop-u2005.png" crc="136024707" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
-    </file>
-    <file name="firstpng-crop-u2035.png" crc="4059984877" seo="true" ref="index">
-      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:about:urban-art-museum:contact:villa-ferreira-costa:the-way-of-the-buyi"/>
     <file name="dsc_0490.jpg" crc="3798856828" ref="about">
@@ -488,10 +458,6 @@
       <caption webpage="villa-ferreira-costa" alt="An image showing the stair paths that leads to the entrance of the Villa Ferreira &amp; Costa, designed by Nuno da Graça Ribeiro."/>
     </file>
     <file name="final png-u46423-fr3.png" crc="3786010860" ref="villa-ferreira-costa"/>
-    <file name="geral - musejpg.jpg" crc="47764579" ref="the-way-of-the-buyi">
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-      <caption webpage="the-way-of-the-buyi" alt=""/>
-    </file>
     <file name="shitoucun,longtanzhen,guizhou,china.jpg" crc="309940042" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
       <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
@@ -521,7 +487,6 @@
     <file name="planta muse st106x120.jpg" crc="3987468298" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
-    <file name="geral - musejpg-u60662-fr.jpg" crc="4221257347" ref="the-way-of-the-buyi"/>
     <file name="gif-half-crop-u60977.png" crc="349390270" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt="An animation representing how the tables of the library can shift to have more space. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
     </file>
@@ -529,7 +494,6 @@
     <file name="planta muse st98x111.jpg" crc="4101579594" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt=""/>
     </file>
-    <file name="geral - musejpg-u60662-fr2.jpg" crc="277914638" ref="the-way-of-the-buyi"/>
     <file name="shitoucun,longtanzhen,guizhou,china470x353.jpg" crc="177872944" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
     </file>
@@ -540,7 +504,6 @@
       <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
     </file>
     <file name="final-u60727-fr2.jpg" crc="340928993" ref="the-way-of-the-buyi"/>
-    <file name="geral - musejpg-u60662-fr3.jpg" crc="230240888" ref="the-way-of-the-buyi"/>
     <file name="shitoucun,longtanzhen,guizhou,china370x278.jpg" crc="3854045212" seo="true" ref="the-way-of-the-buyi">
       <caption webpage="the-way-of-the-buyi" alt="An image showing the typical settlements that the Buyi people build."/>
     </file>
@@ -551,11 +514,55 @@
       <caption webpage="the-way-of-the-buyi" alt="An image showing the library space, showing the versatility of the tables. Designed by Nuno da Graça Ribeiro and Sónia Cunha."/>
     </file>
     <file name="final-u60727-fr3.jpg" crc="3884752603" ref="the-way-of-the-buyi"/>
+    <file name="geral png-crop-u200.png" crc="21429125" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral - musejpg-crop-u203.png" crc="4176430473" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral png-crop-u2002.png" crc="86525275" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral - musejpg-crop-u2032.png" crc="76433382" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral png-crop-u2003.png" crc="86525275" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral - musejpg-crop-u2033.png" crc="76433382" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral - musejpg-crop-u2034.png" crc="454532491" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral png-crop-u2004.png" crc="4128253110" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral png-crop-u2005.png" crc="3766814998" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the house Ferreira &amp; Costa made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="geral - musejpg-crop-u2035.png" crc="27138099" seo="true" ref="index">
+      <caption webpage="index" alt="This is the architecture project for the 2017's 120 Hours, The Way of the Buyi contest made by Nuno da Graça Ribeiro."/>
+    </file>
+    <file name="3 4 18 12 00 office lens.jpg" crc="4225564637" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="3 4 18 12 00 office lens571x804.jpg" crc="134804348" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="geral - musejpg.png" crc="68591983" ref="the-way-of-the-buyi">
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+      <caption webpage="the-way-of-the-buyi" alt=""/>
+    </file>
+    <file name="geral - musejpg-u60662-fr.png" crc="4181431860" ref="the-way-of-the-buyi"/>
+    <file name="geral - musejpg-u60662-fr2.png" crc="3972682927" ref="the-way-of-the-buyi"/>
+    <file name="geral - musejpg-u60662-fr3.png" crc="409001310" ref="the-way-of-the-buyi"/>
   </folder>
-  <file name="index.html" crc="534002733" seo="true" mt="1520093325106" redirect="true"/>
-  <file name="about.html" crc="486180810" seo="true" mt="1520093325106" redirect="true"/>
-  <file name="urban-art-museum.html" crc="126539903" seo="true" mt="1520093325106" redirect="true"/>
-  <file name="contact.html" crc="3966741288" seo="true" mt="1520106981190" redirect="true"/>
-  <file name="villa-ferreira-costa.html" crc="3869628503" seo="true" mt="1520093325106" redirect="true"/>
-  <file name="the-way-of-the-buyi.html" crc="3950769509" seo="true" mt="1520093325106" redirect="true"/>
+  <file name="index.html" crc="4136343129" seo="true" mt="1520193015070" redirect="true"/>
+  <file name="about.html" crc="287725991" seo="true" mt="1520199254004" redirect="true"/>
+  <file name="urban-art-museum.html" crc="3828600209" seo="true" mt="1520193015070" redirect="true"/>
+  <file name="contact.html" crc="4029228486" seo="true" mt="1520193015070" redirect="true"/>
+  <file name="villa-ferreira-costa.html" crc="4015049151" seo="true" mt="1520193125059" redirect="true"/>
+  <file name="the-way-of-the-buyi.html" crc="432371176" seo="true" mt="1520193125882" redirect="true"/>
 </manifest>
